@@ -4,7 +4,7 @@ A Clojure library designed to render reagent components on the server for
 improved proformance. This library is meant to only render the most basic of
 reagent right now.
 
-[![Clojars Project](https://img.shields.io/clojars/v/getscale/reagent-serverside.svg)](https://clojars.org/getscale/reagent-serverside)
+[![Clojars Project](https://clojars.org/getscale/reagent-serverside/latest-version.svg)](https://clojars.org/getscale/reagent-serverside)
 
 ## Usage
 
